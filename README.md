@@ -2,7 +2,7 @@
 
 <p>
   Welcome to my page! </br>
-  I'm Dmitri, Fullstack developer originally from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197447.png" width="13"/> <b>Vienna, Austria</b>.
+  I'm Dmitri, Fullstack developer  currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197447.png" width="13"/> <b>Vienna, Austria</b>.
 </p>
 
 <h3>Things I code with</h3>
