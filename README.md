@@ -7,13 +7,9 @@
 
 <p align="center">
   <a href="https://www.dimov.ch"><img src="https://img.shields.io/badge/Portfolio-dimov.ch-4f46e5?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dimovdmitrii/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="start">
-  <a href="https://www.dimov.ch"><img src="https://img.shields.io/badge/Portfolio-dimov.ch-4f46e5?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
 
 <h3>Things I code with</h3>
