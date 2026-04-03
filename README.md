@@ -5,21 +5,12 @@
   I'm Dmitri, Fullstack developer  currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197447.png" width="13"/> <b>Vienna, Austria</b>.
 </p>
 
-
-[![Portfolio](https://img.shields.io/badge/🌐_dimov.ch-Visit_Portfolio-0a0a0a?style=for-the-badge)](https://www.dimov.ch)
-
-
 <p align="center">
-  <a href="https://www.dimov.ch">
-    <img src="https://img.shields.io/badge/Portfolio-dimov.ch-4f46e5?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-  </a>
+  <a href="https://www.dimov.ch"><img src="https://img.shields.io/badge/Portfolio-dimov.ch-4f46e5?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <b>🌐 <a href="https://www.dimov.ch">dimov.ch</a></b>
-</p>
-
-<p align="center">
+<p align="start">
   <a href="https://www.dimov.ch"><img src="https://img.shields.io/badge/Portfolio-dimov.ch-4f46e5?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
