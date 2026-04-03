@@ -4,7 +4,10 @@
   Welcome to my page! </br>
   I'm Dmitri, Fullstack developer  currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197447.png" width="13"/> <b>Vienna, Austria</b>.
 </p>
+
+
 [![Portfolio](https://img.shields.io/badge/🌐_dimov.ch-Visit_Portfolio-0a0a0a?style=for-the-badge)](https://www.dimov.ch)
+
 
 <p align="center">
   <a href="https://www.dimov.ch">
