@@ -48,6 +48,10 @@ const dmitri = {
     frontend: {
       frameworks: ["React"],
       styling: ["Tailwind CSS", "CSS3", "HTML5"],
+       uiLibraries: [
+        "Material UI",
+        "Ant Design",       
+      ]
     },
     backend: {
       node: ["Node.js"],
@@ -58,8 +62,10 @@ const dmitri = {
     },
     devOps: {
       tools: ["Docker", "Git"],
+      practices: ["CI/CD"]
     },
-    apis: ["REST APIs"],
+    apis: ["REST APIs",
+      "WebSockets"],
   },
   tools: ["Claude Code", "GitHub Copilot", "VS Code"],
   background: "10 years of freelance data analysis & risk modeling (2010–2019)",
